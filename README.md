@@ -36,7 +36,7 @@ This repository contains the source code and assets for a responsive and modern 
 
 ## Contributing
 
-Contributions are welcome! If you find a bug, have suggestions for improvements, or want to add new features, please create an issue or submit a pull request. Make sure to follow the [contributing guidelines](CONTRIBUTING.md) when submitting pull requests.
+Contributions are welcome! If you find a bug, have suggestions for improvements, or want to add new features, please create an issue or submit a pull request. Make sure to follow the [contributing guidelines]() when submitting pull requests.
 
 ## License
 
