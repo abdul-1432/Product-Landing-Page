@@ -48,6 +48,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Feel free to use this landing page template for your product or project! If you have any questions or need assistance, please don't hesitate to [contact us](mailto:contact@example.com).
+Feel free to use this landing page template for your product or project! If you have any questions or need assistance, please don't hesitate to [contact us](mailto:gafoor.mngr@gmail.com).
 
 Happy coding!
