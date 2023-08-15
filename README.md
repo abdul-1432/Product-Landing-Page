@@ -2,8 +2,6 @@
 
 This repository contains the source code and assets for a responsive and modern product landing page. The landing page is designed to effectively showcase a product, highlight its features, and encourage user engagement and conversions. It's built using HTML, CSS, and JavaScript, making it easy to customize and integrate with various platforms.
 
-![Product Landing Page Preview](screenshot.png)
-
 ## Features
 
 - **Responsive Design**: The landing page is fully responsive and adapts to different screen sizes, ensuring a consistent and user-friendly experience across devices.
