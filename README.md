@@ -21,7 +21,7 @@ This repository contains the source code and assets for a responsive and modern 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/product-landing-page.git
+   git clone https://github.com/abdul-1432/Product-Landing-Page
    ```
 
 2. Navigate to the project directory:
